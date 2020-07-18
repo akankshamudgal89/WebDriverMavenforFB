@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25059" started-at="2020-07-14T05:43:22Z" finished-at="2020-07-14T05:43:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25059" started-at="2020-07-14T05:43:22Z" finished-at="2020-07-14T05:43:47Z">
+      <class name="TestCase.TC001">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TestCase.TC001@14bf9759]" name="beforeSuite" is-config="true" duration-ms="158" started-at="2020-07-14T05:43:21Z" finished-at="2020-07-14T05:43:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="startTestFB()[pri:0, instance:TestCase.TC001@14bf9759]" name="startTestFB" is-config="true" duration-ms="18903" started-at="2020-07-14T05:43:22Z" finished-at="2020-07-14T05:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestFB -->
+        <test-method status="PASS" signature="validatelogin()[pri:0, instance:TestCase.TC001@14bf9759]" name="validatelogin" duration-ms="6129" started-at="2020-07-14T05:43:40Z" finished-at="2020-07-14T05:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatelogin -->
+        <test-method status="PASS" signature="endTestFB()[pri:0, instance:TestCase.TC001@14bf9759]" name="endTestFB" is-config="true" duration-ms="3" started-at="2020-07-14T05:43:47Z" finished-at="2020-07-14T05:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTestFB -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase.TC001@14bf9759]" name="tearDown" is-config="true" duration-ms="1749" started-at="2020-07-14T05:43:47Z" finished-at="2020-07-14T05:43:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase.TC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
